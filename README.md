@@ -1,5 +1,12 @@
 # 📊 Data-Driven Social Media Marketing Campaign Performance Analysis  
-### Conversion Funnel • Audience Insights • ROI Optimization • Marketing Analytics  
+### Conversion Funnel • Audience Insights • ROI Optimization • Marketing Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/EDA-Marketing%20Analytics-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-ROI%20Optimization-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data-400K%2B%20Events-purple?style=for-the-badge">
+</p>
 
 ---
 
@@ -8,6 +15,20 @@
 In today’s digital marketing ecosystem, data-driven decision making plays a crucial role in improving campaign performance, user engagement, and conversions. This project performs an end-to-end analysis of **400,000+ social media ad interaction events** across **50 campaigns, 200 ads, and 10,000 users** to uncover the key drivers of marketing success.  
 
 The primary goal of this project is to evaluate campaign efficiency, understand customer behavior, and generate actionable insights that help marketers optimize targeting, improve conversion rates, and maximize return on investment (ROI).  
+
+---
+
+## 🎯 Business Problem  
+
+Marketing teams often face challenges such as:
+
+- Poor conversion despite high impressions  
+- Budget wasted on low-performing campaigns  
+- Weak audience targeting  
+- Unclear ROI measurement  
+- No data-backed campaign optimization  
+
+This project solves these problems using **marketing analytics, funnel analysis, and ROI-driven insights**.
 
 ---
 
