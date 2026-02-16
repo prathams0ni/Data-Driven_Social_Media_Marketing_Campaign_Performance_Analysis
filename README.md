@@ -168,7 +168,5 @@ This project demonstrates how data-driven analysis can be used to uncover key ma
 
 ## 👨‍💻 Author
 
-Pratham SOni
+Pratham Soni
 Data Analyst • Python • Marketing Analytics • Data-Driven Decision Making
-
----
